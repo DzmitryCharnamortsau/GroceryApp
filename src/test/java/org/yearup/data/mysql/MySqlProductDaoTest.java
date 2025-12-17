@@ -28,14 +28,14 @@ class MySqlProductDaoTest extends BaseDaoTestClass
         Product expected = new Product()
         {{
             setProductId(1);
-            setName("Smartphone");
-            setPrice(new BigDecimal("499.99"));
+            setName("Organic Bananas");
+            setPrice(new BigDecimal("3.99"));
             setCategoryId(1);
-            setDescription("A powerful and feature-rich smartphone for all your communication needs.");
-            setSubCategory("Black");
-            setStock(50);
-            setFeatured(false);
-            setImageUrl("smartphone.jpg");
+            setDescription("Fresh organic bananas, perfect for snacking or smoothies.");
+            setSubCategory("Organic");
+            setStock(100);
+            setFeatured(true);
+            setImageUrl("bananas.jpg");
         }};
 
         // act
