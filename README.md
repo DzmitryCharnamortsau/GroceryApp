@@ -7,8 +7,8 @@ An online grocery portal to perform all your food needs
   - product category
   - product type
   - price
-- Login into an account
-- Add items to shopping cart
+- Login in to an account
+- Add items to the shopping cart
  
 ***Main screen:***
 
