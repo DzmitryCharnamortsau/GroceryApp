@@ -12,12 +12,12 @@ An online grocery portal to perform all your food needs
  
 ***Main screen:***
 
-![Main screen](main screen.png)
+![Main screen](main-screen.png)
 
 ***Login screen:***
 
-![Login screen](login screen.png)
+![Login screen](login-screen.png)
 
 ***Shopping cart:***
 
-![Shopping cart](shopping cart feature.png)
+![Shopping cart](shopping-cart-feature.png)
